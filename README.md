@@ -2,7 +2,7 @@
 
 
 
-# Marlin MPCNC MKS SBARE 1.3 Firmware
+# Marlin MPCNC MKS SBARE 1.3 Firmware dual endstops
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
